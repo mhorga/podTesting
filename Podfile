@@ -1,0 +1,1 @@
+pod 'randomizeCategoryOnNSArray', :git => 'https://github.com/mhorga/testPod.git'

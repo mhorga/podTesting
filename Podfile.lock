@@ -1,0 +1,19 @@
+PODS:
+  - randomizeCategoryOnNSArray (0.1.0)
+
+DEPENDENCIES:
+  - randomizeCategoryOnNSArray (from `https://github.com/mhorga/testPod.git`)
+
+EXTERNAL SOURCES:
+  randomizeCategoryOnNSArray:
+    :git: https://github.com/mhorga/testPod.git
+
+CHECKOUT OPTIONS:
+  randomizeCategoryOnNSArray:
+    :commit: e193bddfd1e3fd6565f9c8cd19567656349d08df
+    :git: https://github.com/mhorga/testPod.git
+
+SPEC CHECKSUMS:
+  randomizeCategoryOnNSArray: 87909400754482d62766d81fa9a0dc7264ec7c03
+
+COCOAPODS: 0.36.0.beta.1
