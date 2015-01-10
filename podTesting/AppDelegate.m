@@ -7,6 +7,7 @@
 //
 
 #import "AppDelegate.h"
+#import <randomizeCategoryOnNSArray/NSArray+Randomize.h>
 
 @interface AppDelegate ()
 
@@ -16,7 +17,10 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    // Override point for customization after application launch.
+    NSMutableArray *array = [[NSMutableArray alloc ] initWithObjects:@1, @2, @3, @4, nil];
+    [array randomizeArray];
+    NSLog(@"%@", array);
+    
     return YES;
 }
 

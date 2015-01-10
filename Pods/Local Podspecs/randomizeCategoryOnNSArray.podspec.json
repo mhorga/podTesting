@@ -3,20 +3,20 @@
   "version": "0.1.0",
   "summary": "A short description of randomizeCategoryOnNSArray.",
   "description": "                       An optional longer description of randomizeCategoryOnNSArray\n\n                       * Markdown format.\n                       * Don't worry about the indent, we strip it!\n",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/randomizeCategoryOnNSArray",
+  "homepage": "https://github.com/mhorga/randomizeCategoryOnNSArray",
   "license": "MIT",
   "authors": {
-    "Marius Horga": "mhorga@gmail.com"
+    "Marius Horga": ""
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/randomizeCategoryOnNSArray.git",
+    "git": "https://github.com/mhorga/randomizeCategoryOnNSArray.git",
     "tag": "0.1.0"
   },
   "platforms": {
     "ios": "7.0"
   },
   "requires_arc": true,
-  "source_files": "Pod/Classes",
+  "source_files": "Pod/",
   "resource_bundles": {
     "randomizeCategoryOnNSArray": [
       "Pod/Assets/*.png"

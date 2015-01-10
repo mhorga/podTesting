@@ -9,6 +9,11 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>Pods-randomizeCategoryOnNSArray.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Pods.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -17,12 +22,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>2EC3682A1741416F7D618614</key>
+		<key>0AA2DD3FF656EAAC3C639944</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>8027F28DD6E065A5AD519CCB</key>
+		<key>AC528CF5D3C96933462B8C15</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F5C3B1F137DCFEC5BECBCA7F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
