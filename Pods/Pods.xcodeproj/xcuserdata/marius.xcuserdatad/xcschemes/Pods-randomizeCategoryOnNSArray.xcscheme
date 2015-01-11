@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F5C3B1F137DCFEC5BECBCA7F"
+               BlueprintIdentifier = "B07450EB982DB9CC4D985789"
                BuildableName = "libPods-randomizeCategoryOnNSArray.a"
                BlueprintName = "Pods-randomizeCategoryOnNSArray"
                ReferencedContainer = "container:Pods.xcodeproj">

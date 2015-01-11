@@ -18,8 +18,8 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     NSMutableArray *array = [[NSMutableArray alloc ] initWithObjects:@1, @2, @3, @4, nil];
-    [array randomizeArray];
-    NSLog(@"%@", array);
+    NSArray *result = [array randomizeArray];
+    NSLog(@"%@", result);
     
     return YES;
 }
